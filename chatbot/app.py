@@ -34,16 +34,7 @@ def GetTextkey(text):             #關鍵字查詢
     return content.get(text,"我不懂你在說甚麼耶 ヾ(´・ω・｀)ノ")
     
         
-#def bigpig():
-#    
-#    finpig = input("你想要找劉思文嘛(y/n)?")
-#    if findpig == "y" or findpig == "Y" :
-#        print("她的臉書在這\nhttps://tinyurl.com/y3aa4rd6")
-#        weight = int(input("你最近的體重是幾公斤阿? "))
-#        print("%d公斤太重了吧! 該減肥啦! " %(weight))
-#        
-#    else :
-#        print("我好孤單都不跟我聊天 嗚嗚嗚 ")
+
 
 
 # 監聽所有來自 /callback 的 Post Request
