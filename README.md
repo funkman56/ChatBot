@@ -1,5 +1,5 @@
 # ChatBot
-利用SQL資料庫和Crawler爬蟲製作的line聊天機器人
+利用SQL資料庫和Crawler爬蟲製作的Line聊天機器人
 
 #version 1
 
