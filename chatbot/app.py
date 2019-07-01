@@ -33,7 +33,6 @@ def GetTextkey(text):             #關鍵字查詢
                }
     return content.get(text,"我不懂你在說甚麼耶 ヾ(´・ω・｀)ノ")
     
-        
 
 # 監聽所有來自 /callback 的 Post Request
 @app.route("/callback", methods=['POST'])
